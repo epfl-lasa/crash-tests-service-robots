@@ -1,4 +1,4 @@
-# service_robots_collisions
+# crash-tests-service-robots
 -------------
 Data, analysis, and models of crash testing between service robots and pedestrians.
 -------------
