@@ -1,7 +1,12 @@
-# crash-tests-service-robots
+# Crash Tests and Safety for Service Robots
+
 -------------
 Data, analysis, and models of crash testing between service robots and pedestrians.
 -------------
+
+<p align="center">
+<img src="https://github.com/epfl-lasa/crash-tests-service-robots/blob/main/figures/Safety_Mobile_Service_Robots.png"  width="500"></>	
+	
 Requirements:
 ```
 Data files are in .xlsx format
@@ -11,7 +16,7 @@ Scripts for Injury risk metrics require matlab2020 +
 Setup:
 git clone https://github.com/epfl-lasa/service_robots_collisions.git
 
-Dowload the Dataset with raw and processed sensor information from: https://dx.doi.org/10.21227/yt9g-cd05 [1]
+Dowload the Dataset with raw and processed sensor information from: https://doi.org/10.5281/zenodo.5266447 [1]
 
 Create a folder on the parent directory: "../collision_data"
 
@@ -172,7 +177,7 @@ Head Acceleration at Ground Impact
 
 [1] Paez-Granados D., and Billard, A. “Risks posed by new mobility devices and service robots to pedestrians”. 2021. (Under review)
 
-[2] Paez-Granados D., Billard A., January 26, 2021, "Service Robots Crash Testing with Pedestrians: Children and Adult Dummies", IEEE Dataport, doi: https://dx.doi.org/10.21227/yt9g-cd05.
+[2] Paez-Granados, Diego, & Billard, Aude. (2021). Service Robots Crash Testing with Pedestrians: Children and Adult Dummies (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5266447.
 
 **Contact**: 
 [Diego Paez] 
