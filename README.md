@@ -1,4 +1,4 @@
-# service_robots_collisions
+# crash-tests-service-robots
 -------------
 Data, analysis, and models of crash testing between service robots and pedestrians.
 -------------
@@ -170,9 +170,9 @@ Head Acceleration at Ground Impact
 
 **References**
 
-[1] Paez-Granados, and Billard, A. “Risks posed by new mobility devices and service robots to pedestrians”. 2021. (Under review)
+[1] Paez-Granados D., and Billard, A. “Risks posed by new mobility devices and service robots to pedestrians”. 2021. (Under review)
 
-[2] Dataset with raw and processed sensor information: https://dx.doi.org/10.21227/yt9g-cd05
+[2] Paez-Granados D., Billard A., January 26, 2021, "Service Robots Crash Testing with Pedestrians: Children and Adult Dummies", IEEE Dataport, doi: https://dx.doi.org/10.21227/yt9g-cd05.
 
 **Contact**: 
 [Diego Paez] 
