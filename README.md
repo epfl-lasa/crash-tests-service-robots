@@ -177,7 +177,7 @@ Head Acceleration at Ground Impact
 
 [1] Paez-Granados D., and Billard, A. “Risks posed by new mobility devices and service robots to pedestrians”. 2021. (Under review)
 
-[2] Paez-Granados, Diego, & Billard, Aude. (2021). Mobile Service Robots Safety Assessment through Crash Testing with Pedestrians: Children and Adult Dummies (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5266447.
+[2] Paez-Granados, Diego, & Billard, Aude. (2021). Mobile Service Robots Crash Testing with Pedestrians: Safety Assessment with Child and Adult Dummies (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5266447.
 
 **Contact**: 
 [Diego Paez] 
