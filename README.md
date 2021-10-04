@@ -5,7 +5,7 @@ Data, analysis, and models of crash testing between service robots and pedestria
 -------------
 
 <p align="center">
-<img src="https://github.com/epfl-lasa/crash-tests-service-robots/blob/main/figures/Safety_Mobile_Service_Robots.png"  width="500"></>	
+<img src="https://github.com/epfl-lasa/crash-tests-service-robots/blob/main/figures/crash-testing_chest_impact.gif"  width="600"></>	
 	
 Requirements:
 ```
